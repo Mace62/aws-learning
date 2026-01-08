@@ -39,4 +39,4 @@ Key concepts covered include:
 - Preventing direct public access to EC2 instances
 - End-to-end traffic validation via ALB DNS name
 
-Full setup details, screenshots, and architectural explanations can be found in the **`application-load-balancer`** directory.
+Full setup details, screenshots, and architectural explanations can be found in the `application-load-balancer` directory.
